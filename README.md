@@ -24,3 +24,4 @@ pip install -r requirements.txt
 python main.py sample_logs/sample.log --export results.json --plot
 ```
 # log-analyzer
+# log-analyzer
